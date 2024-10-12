@@ -8,6 +8,10 @@ requests = "*"
 python-dotenv = "*"
 
 [dev-packages]
+black = "*"
+flake8 = "*"
+isort = "*"
+mypy = "*"
 
 [requires]
 python_version = "3.11"
